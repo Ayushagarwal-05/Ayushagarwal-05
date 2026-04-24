@@ -51,9 +51,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&theme=radical&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&theme=radical&hide_border=true)
 ![](https://streak-stats.demolab.com/?user=Ayushagarwal-05&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushagarwal-05&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushagarwal-05&layout=compact&theme=radical&hide_border=true)
 
 ---
 
