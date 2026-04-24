@@ -8,13 +8,13 @@
 - 🤝 Open to collaborate on **Machine Learning & Game Dev**  
 - 🌱 Currently learning **ML + Game Development (Unity & Blender)**  
 - 💬 Ask me about **Python, Java, Unity, ML basics**  
-- ⚡ Fun fact: Gym + Gaming + Coding 💪🎮💻  
+- ⚡ Hobbies: Gym + Gaming + Anime 🎮💻  
 
 ---
 
 ## 🚀 Projects (Highlight Section)
 - 🔹 **ResQAI** – AI-powered emergency response system  
-- 🔹 More projects on my repositories 👇  
+- 🔹 More projects on my repositories   
 
 ---
 
