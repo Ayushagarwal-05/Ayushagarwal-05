@@ -136,10 +136,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayushagarwal-05&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/Ayushagarwal-05/Ayushagarwal-05/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
