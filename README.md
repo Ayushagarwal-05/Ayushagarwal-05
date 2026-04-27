@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayuu</h1>
+<h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">🚀 AI/ML Developer | Game Dev Learner | Building Real-World Tech</h3>
 
 <p align="center">
