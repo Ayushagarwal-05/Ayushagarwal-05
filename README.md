@@ -138,11 +138,7 @@
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Ayushagarwal-05&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" 
-  />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushagarwal-05)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
