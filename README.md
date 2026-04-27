@@ -16,7 +16,7 @@
 - 🤝 Open to collaborations in **AI, ML & Game Development**
 - 🌱 Learning more about **Deep Learning, Computer Vision & Generative AI**
 - 💬 Ask me about **Python, ML, Unity, Java & AI Projects**
-- ⚡ Fun fact: Gym + Gaming + Anime keeps me alive 💪🎮
+- ⚡ Hobbies: Gym + Gaming + Anime + Music 🎮🎶💻
 
 ---
 
