@@ -20,6 +20,14 @@
 
 ---
 
+## 📊 Dev Activity
+
+<a href="https://app.daily.dev/shoyo_195">
+  <img src="https://api.daily.dev/devcards/v2/NjeDG5AGlxnXe95z7vOr5.png?type=default&r=fcr" width="356" alt="Shoyo's Dev Card"/>
+</a>
+
+---
+
 # 🚀 Featured Projects
 
 ## 🔹 ResQAI
