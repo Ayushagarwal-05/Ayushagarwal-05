@@ -13,7 +13,7 @@
 - 🎓 B.Tech CSE student, building end-to-end AI products
 - 🤖 Currently an **AI Intern @ Matter Vision Mechanics**
 - 🐄 Building **MuzzleID** — a biometric cattle identification system (YOLOv8 + ArcFace + FAISS)
-- 🛠️ Recently shipped **DevAura AI** and **FFDrip AI**, both production-hardened apps
+- 🛠️ Recently shipped **DevAura AI** and **HERO**, an AI desktop assistant
 - 🧠 Into applied AI, full-stack dev, and turning hackathon ideas into real products
 
 ---
@@ -42,10 +42,10 @@ Developer identity card generator built for daily.dev Hackathon 2026. Includes P
 <tr>
 <td width="50%" valign="top">
 
-**🎮 FFDrip AI**
-Free Fire MAX companion app — OpenCV vault scanner, perceptual-hash cosmetic detection, and a rule-based outfit recommender.
+**🤖 HERO — AI Desktop Assistant**
+Jarvis-inspired voice assistant with real OS control, YOLOv8 camera-based object detection, OCR screen reading, and persistent memory.
 
-`Flutter` `FastAPI` `OpenCV`
+`Python` `OpenAI API` `YOLOv8` `OpenCV` `Tesseract OCR`
 
 </td>
 <td width="50%" valign="top">
@@ -69,9 +69,11 @@ AI-powered emergency response platform. Top 10 at Smart India Hackathon 2024, wo
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-&nbsp;
-![YOLO](https://img.shields.io/badge/YOLO-FFBB00?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square)
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/YOLO-FFBB00?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" />
 </p>
 
 ---
