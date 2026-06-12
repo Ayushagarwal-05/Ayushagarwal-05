@@ -4,7 +4,7 @@
 
 I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
 
-<img align="right" alt="Pixel Art" width="280" src="https://media1.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.gif" />
+<img align="right" width="280" src="./assets/bridge.gif" />
 
 ### 🧠 About me
 
