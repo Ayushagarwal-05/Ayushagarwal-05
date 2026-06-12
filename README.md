@@ -22,7 +22,11 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 - **MuzzleID** — cattle biometric ID system, FastAPI + Next.js + React Native
 - **DevAura AI** — cinematic dev identity card generator (daily.dev Hackathon 2026)
 - **HERO** — Jarvis-inspired desktop assistant with vision, OCR & voice
-- **ResQAI** — AI emergency response platform, Top 10 SIH 2024 + Hack2Skill winner
+- **ResQAI** — AI emergency response platform, Hack2Skill participant
+
+<p align="right">
+  <img width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
+</p>
 
 ### 🛠️ Tech stack
 
@@ -49,9 +53,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 <img src="https://skillicons.dev/icons?i=discord" height="35" />
 </a>
 
-<p align="right">
-  <img width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
-</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=120&section=footer" width="100%"/>
