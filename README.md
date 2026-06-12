@@ -1,110 +1,56 @@
-<div align="center">
+<h1>Hey, I'm Ayush 👋</h1>
 
-# Hi, I'm Ayush 👋
+<img align="right" width="160" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Building+Computer+Vision+Systems;Full-Stack+%2B+AI+Integration;Hackathon+Builder" alt="Typing SVG" />
+I'm a CS undergrad who builds AI/ML projects for fun — currently deep into computer vision and full-stack AI apps. Big into hackathons, gym, gaming, and anime when I'm not debugging something at 2am.
 
-</div>
+<br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=header" width="100%"/>
+### 🧠 about me
 
-### 🚀 About Me
+- 🐄 building **MuzzleID** — biometric cattle ID using muzzle prints (YOLOv8 + ArcFace + FAISS)
+- 🤖 currently an AI Intern @ Matter Vision Mechanics
+- 🏗️ working on an offline JARVIS-style dual AI assistant (Ollama, Whisper, Piper TTS)
+- 🏆 hackathon regular — SIH 2024, Hack2Skill, daily.dev
+- 🎮 gym + gaming + anime + music, in no particular order
+- 📫 reach me at agarwalayush190505@gmail.com
 
-- 🎓 B.Tech CSE student, building end-to-end AI products
-- 🤖 Currently an **AI Intern @ Matter Vision Mechanics**
-- 🐄 Building **MuzzleID** — a biometric cattle identification system (YOLOv8 + ArcFace + FAISS)
-- 🛠️ Recently shipped **DevAura AI** and **HERO**, an AI desktop assistant
-- 🧠 Into applied AI, full-stack dev, and turning hackathon ideas into real products
+<img align="left" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
----
+### 🚀 things i've built
 
-### 🔭 Featured Projects
+- **MuzzleID** — cattle biometric ID system, FastAPI + Next.js + React Native
+- **DevAura AI** — cinematic dev identity card generator (daily.dev Hackathon 2026)
+- **HERO** — Jarvis-inspired desktop assistant with vision, OCR & voice
+- **ResQAI** — AI emergency response platform, Top 10 SIH 2024 + Hack2Skill winner
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br clear="left"/>
 
-**🐄 MuzzleID**
-Biometric cattle ID system using muzzle-print analysis. YOLOv8 + ArcFace/ResNet-50 + FAISS, with a FastAPI backend, Next.js dashboard, and React Native app.
+### 🛠️ tech stack
 
-`Python` `YOLOv8` `FastAPI` `Next.js` `FAISS`
-
-</td>
-<td width="50%" valign="top">
-
-**🪪 DevAura AI**
-Developer identity card generator built for daily.dev Hackathon 2026. Includes PNG export and shareable cards.
-
-`Next.js 15` `TypeScript` `OpenRouter AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 HERO — AI Desktop Assistant**
-Jarvis-inspired voice assistant with real OS control, YOLOv8 camera-based object detection, OCR screen reading, and persistent memory.
-
-`Python` `OpenAI API` `YOLOv8` `OpenCV` `Tesseract OCR`
-
-</td>
-<td width="50%" valign="top">
-
-**🚑 ResQAI**
-AI-powered emergency response platform. Top 10 at Smart India Hackathon 2024, won Hack2Skill Solution Architect 2K26.
-
-`Python` `Gemini API` `Flask`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,nodejs,flask,fastapi,nextjs,react,mysql,git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,nodejs,fastapi,nextjs,react,git,github" />
 </p>
-
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/YOLO-FFBB00?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" />
-</p>
+### 🌐 find me here
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushagarwal-05&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushagarwal-05&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### 🌐 Connect
-
-<p align="center">
 <a href="https://www.linkedin.com/in/ayush-agarwal-39303728b">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="35" />
 </a>
 &nbsp;
-<a href="mailto:agarwalayush190505@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<a href="https://github.com/Ayushagarwal-05">
+<img src="https://skillicons.dev/icons?i=github" height="35" />
 </a>
 &nbsp;
 <a href="https://discord.gg/DrUjSzsnF">
-<img src="https://skillicons.dev/icons?i=discord" height="40" />
+<img src="https://skillicons.dev/icons?i=discord" height="35" />
 </a>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F7FF&height=100&section=footer" width="100%"/>
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
+</p>
