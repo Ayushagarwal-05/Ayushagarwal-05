@@ -4,6 +4,8 @@
 
 I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
 
+<img align="right" alt="Pixel Art" width="280" src="https://media1.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.gif" />
+
 ### 🧠 About me
 
 - 🐄 building **MuzzleID** — biometric cattle ID using muzzle prints (YOLOv8 + ArcFace + FAISS)
@@ -13,10 +15,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 - 🎮 gym + gaming + anime + music, in no particular order
 - 📫 reach me at agarwalayush190505@gmail.com
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.gif" width="280"><br>
-  <em>🌙 me at 2am, still debugging</em>
-</p>
+
 
 ### 🚀 Things i've built
 
