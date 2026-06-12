@@ -15,8 +15,10 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 
 <p align="center">
   <img src="https://media1.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.gif" width="280">
-  <br>
-  <sub>me at 2am, still debugging</sub>
+</p>
+
+<p align="center">
+  <i>me at 2am, still debugging</i>
 </p>
 
 ### 🚀 Things i've built
