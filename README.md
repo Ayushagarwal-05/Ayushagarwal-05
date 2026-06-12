@@ -4,7 +4,7 @@
 
 I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
 
-### 🧠 about me
+### 🧠 About me
 
 - 🐄 building **MuzzleID** — biometric cattle ID using muzzle prints (YOLOv8 + ArcFace + FAISS)
 - 🤖 currently an AI Intern @ Matter Vision Mechanics
@@ -19,14 +19,14 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
   <sub>me at 2am, still debugging</sub>
 </p>
 
-### 🚀 things i've built
+### 🚀 Things i've built
 
 - **MuzzleID** — cattle biometric ID system, FastAPI + Next.js + React Native
 - **DevAura AI** — cinematic dev identity card generator (daily.dev Hackathon 2026)
 - **HERO** — Jarvis-inspired desktop assistant with vision, OCR & voice
 - **ResQAI** — AI emergency response platform, Top 10 SIH 2024 + Hack2Skill winner
 
-### 🛠️ tech stack
+### 🛠️ Tech stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,nodejs,fastapi,nextjs,react,git,github" />
@@ -35,7 +35,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-### 🌐 find me here
+### 🌐 Find me here
 
 <a href="https://www.linkedin.com/in/ayush-agarwal-39303728b">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
