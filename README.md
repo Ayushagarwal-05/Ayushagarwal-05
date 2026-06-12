@@ -4,7 +4,7 @@
 
 I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
 
-<img align="right" width="310" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" />
+<img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" />
 
 ### 🧠 About me
 
