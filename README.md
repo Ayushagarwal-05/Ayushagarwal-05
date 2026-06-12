@@ -17,11 +17,12 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 
 
 
-### 🚀 Things i've built
+### 🚀 Things I've Built
 
-- **MuzzleID** — cattle biometric ID system, FastAPI + Next.js + React Native
-- **DevAura AI** — cinematic dev identity card generator (daily.dev Hackathon 2026)
+- **MuzzleID** — biometric cattle ID system, FastAPI + Next.js + React Native
+- **DevAura AI** — cinematic developer identity card generator (daily.dev Hackathon 2026)
 - **HERO** — Jarvis-inspired desktop assistant with vision, OCR & voice
+- **Women Safety Application** — AI-powered emergency safety app with GPS tracking, geofencing & SOS alerts (Top 10 AI Teams, SIH 2024)
 - **ResQAI** — AI emergency response platform, Hack2Skill participant
 
 
