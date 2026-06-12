@@ -47,9 +47,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 <img src="https://skillicons.dev/icons?i=discord" height="35" />
 </a>
 
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtmdWRpajV3aXd0aG5jZ2Ztb2N4MnV5cDZmOXZtb2FydThvNnMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7pAfM6ZCjnmUWssTS4/giphy.gif" width="200"/>
-</p>
+<img align="right" width="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtmdWRpajV3aXd0aG5jZ2Ztb2N4MnV5cDZmOXZtb2FydThvNnMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7pAfM6ZCjnmUWssTS4/giphy.gif" />
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:FF6A88,100:FF9A8B&height=120&section=footer" width="100%"/>
