@@ -15,6 +15,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 - 🎮 gym + gaming + anime + music, in no particular order
 - 📫 reach me at agarwalayush190505@gmail.com
 
+<br clear="right"/>
 
 
 ### 🚀 Things i've built
