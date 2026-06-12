@@ -14,9 +14,9 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 - 📫 reach me at agarwalayush190505@gmail.com
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl1ajd6YnplYjNtaW9naGNqOXg2bjUyZmV4dTJrbmoyNmxyNzhzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ViHG6N1Zhq1A7tDwbF/giphy.gif" width="280"/>
-<br/>
-<sub>me at 2am, still debugging</sub>
+  <img src="https://media1.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.gif" width="280">
+  <br>
+  <sub>me at 2am, still debugging</sub>
 </p>
 
 ### 🚀 things i've built
