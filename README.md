@@ -48,7 +48,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 </a>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtmdWRpajV3aXd0aG5jZ2Ztb2N4MnV5cDZmOXZtb2FydThvNnMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7pAfM6ZCjnmUWssTS4/giphy.gif" width="120"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtmdWRpajV3aXd0aG5jZ2Ztb2N4MnV5cDZmOXZtb2FydThvNnMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7pAfM6ZCjnmUWssTS4/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
