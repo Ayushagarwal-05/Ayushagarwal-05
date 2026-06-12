@@ -1,10 +1,8 @@
-<h1>Hey, I'm Ayush 👋</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,50:FF6A88,100:6A5ACD&height=200&section=header&text=Hey,%20I'm%20Ayush&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%"/>
+</p>
 
-<img align="right" width="160" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" />
-
-I'm a CS undergrad who builds AI/ML projects for fun — currently deep into computer vision and full-stack AI apps. Big into hackathons, gym, gaming, and anime when I'm not debugging something at 2am.
-
-<br clear="right"/>
+I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
 
 ### 🧠 about me
 
@@ -15,7 +13,11 @@ I'm a CS undergrad who builds AI/ML projects for fun — currently deep into com
 - 🎮 gym + gaming + anime + music, in no particular order
 - 📫 reach me at agarwalayush190505@gmail.com
 
-<img align="left" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<p align="center">
+<img src="https://media.giphy.com/media/vFKqfRQ85f0eIxlsLT/giphy.gif" width="280"/>
+<br/>
+<sub>me at 2am, still debugging</sub>
+</p>
 
 ### 🚀 things i've built
 
@@ -23,8 +25,6 @@ I'm a CS undergrad who builds AI/ML projects for fun — currently deep into com
 - **DevAura AI** — cinematic dev identity card generator (daily.dev Hackathon 2026)
 - **HERO** — Jarvis-inspired desktop assistant with vision, OCR & voice
 - **ResQAI** — AI emergency response platform, Top 10 SIH 2024 + Hack2Skill winner
-
-<br clear="left"/>
 
 ### 🛠️ tech stack
 
@@ -49,8 +49,6 @@ I'm a CS undergrad who builds AI/ML projects for fun — currently deep into com
 <img src="https://skillicons.dev/icons?i=discord" height="35" />
 </a>
 
----
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:FF6A88,100:FF9A8B&height=120&section=footer" width="100%"/>
 </p>
