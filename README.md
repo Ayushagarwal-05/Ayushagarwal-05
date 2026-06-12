@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,50:FF6A88,100:6A5ACD&height=200&section=header&text=Hey,%20I'm%20Ayush&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=200&section=header&text=Hey,%20I'm%20Ayush&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%"/>
 </p>
 
 I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
@@ -33,7 +33,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-<img align="right" width="420" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
+
 
 ### 🌐 Find me here
 
@@ -49,7 +49,9 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 <img src="https://skillicons.dev/icons?i=discord" height="35" />
 </a>
 
-
+<p align="right">
+  <img width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:FF6A88,100:FF9A8B&height=120&section=footer" width="100%"/>
