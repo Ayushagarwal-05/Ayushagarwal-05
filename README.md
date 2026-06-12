@@ -36,7 +36,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-<img align="right" width="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif"" />
+<img align="right" width="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
 
 ### 🌐 Find me here
 
