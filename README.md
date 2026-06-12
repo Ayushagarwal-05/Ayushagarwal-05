@@ -54,5 +54,5 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&section=footer&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=120&section=footer" width="100%"/>
 </p>
