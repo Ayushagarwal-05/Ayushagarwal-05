@@ -36,20 +36,31 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-<img align="right" width="340" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
+<table>
+<tr>
+<td>
 
 ### 🌐 Find me here
 
-<a href="https://www.linkedin.com/in/ayush-agarwal-39303728b">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
 </a>
-&nbsp;
-<a href="https://github.com/Ayushagarwal-05">
+
+<a href="YOUR_GITHUB">
 <img src="https://skillicons.dev/icons?i=github" height="35" />
 </a>
-&nbsp;
-<a href="https://discord.gg/DrUjSzsnF">
+
+<a href="YOUR_DISCORD">
 <img src="https://skillicons.dev/icons?i=discord" height="35" />
 </a>
+
+</td>
+
+<td align="right">
+<img width="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
+</td>
+
+</tr>
+</table>
 
 
