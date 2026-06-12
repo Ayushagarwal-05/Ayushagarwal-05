@@ -4,7 +4,7 @@
 
 I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
 
-<img align="right" width="230" src="./assets/bridge.gif" />
+<img align="right" width="210" src="./assets/bridge.gif" />
 
 ### 🧠 About me
 
@@ -15,7 +15,7 @@ I'm a CS undergrad building AI/ML projects — mostly computer vision and full-s
 - 🎮 gym + gaming + anime + music, in no particular order
 - 📫 reach me at agarwalayush190505@gmail.com
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 ### 🚀 Things i've built
 
