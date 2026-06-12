@@ -1,180 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ayuu</h1>
-<h3 align="center">🚀 AI/ML Developer | Game Dev Learner | Building Real-World Tech</h3>
+<div align="center">
+
+# Hi, I'm Ayush 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Building+Computer+Vision+Systems;Full-Stack+%2B+AI+Integration;Hackathon+Builder" alt="Typing SVG" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=header" width="100%"/>
+
+### 🚀 About Me
+
+- 🎓 B.Tech CSE student, building end-to-end AI products
+- 🤖 Currently an **AI Intern @ Matter Vision Mechanics**
+- 🐄 Building **MuzzleID** — a biometric cattle identification system (YOLOv8 + ArcFace + FAISS)
+- 🛠️ Recently shipped **DevAura AI** and **FFDrip AI**, both production-hardened apps
+- 🧠 Into applied AI, full-stack dev, and turning hackathon ideas into real products
+
+---
+
+### 🔭 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🐄 MuzzleID**
+Biometric cattle ID system using muzzle-print analysis. YOLOv8 + ArcFace/ResNet-50 + FAISS, with a FastAPI backend, Next.js dashboard, and React Native app.
+
+`Python` `YOLOv8` `FastAPI` `Next.js` `FAISS`
+
+</td>
+<td width="50%" valign="top">
+
+**🪪 DevAura AI**
+Developer identity card generator built for daily.dev Hackathon 2026. Includes PNG export and shareable cards.
+
+`Next.js 15` `TypeScript` `OpenRouter AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 FFDrip AI**
+Free Fire MAX companion app — OpenCV vault scanner, perceptual-hash cosmetic detection, and a rule-based outfit recommender.
+
+`Flutter` `FastAPI` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+**🚑 ResQAI**
+AI-powered emergency response platform. Top 10 at Smart India Hackathon 2024, won Hack2Skill Solution Architect 2K26.
+
+`Python` `Gemini API` `Flask`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Game+Developer+in+Progress;Building+AI+Projects;Unity+%7C+Python+%7C+PyTorch" alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,nodejs,flask,fastapi,nextjs,react,mysql,git,github,vscode" />
 </p>
 
----
-
-# 🧠 About Me
-- 🔭 Currently building **AI/ML-based real-world solutions**
-- 🚑 Developed **ResQAI** – AI-powered emergency response platform
-- 🐄 Trained ML models for **cattle & muzzle detection systems**
-- 🎙️ Built **HERO** – an AI Voice Assistant project
-- 🎮 Exploring **Game Development with Unity & Blender**
-- 🤝 Open to collaborations in **AI, ML & Game Development**
-- 🌱 Learning more about **Deep Learning, Computer Vision & Generative AI**
-- 💬 Ask me about **Python, ML, Unity, Java & AI Projects**
-- ⚡ Hobbies: Gym + Gaming + Anime + Music 🎮🎶💻
-
----
-
-## 📊 Dev Activity
-
-<a href="https://app.daily.dev/ayu_buildss"><img src="https://api.daily.dev/devcards/v2/NjeDG5AGlxnXe95z7vOr5.png?type=default&r=o0l" width="356" alt="Ayush Agarwal's Dev Card"/></a>
-
-- 🚀 Building ML Projects (ResQAI)
-- 🤖 Exploring Generative AI
-- ⚙️ Backend + AI Integration
----
-
-# 🚀 Featured Projects
-
-## 🔹 ResQAI
-🚑 AI-powered emergency response and assistance system designed for faster real-world crisis handling.
-
-### Tech Used
-`Python` `Node.js` `Gemini API` `Machine Learning` `Flask`
-
----
-
-## 🔹 HERO – AI Voice Assistant
-🎙️ Personal AI assistant capable of voice interaction and smart task execution.
-
-### Features
-- Voice Commands
-- Speech Recognition
-- AI Responses
-- Task Automation
-
-### Tech Used
-`Python` `SpeechRecognition` `pyttsx3` `AI APIs`
-
----
-
-## 🔹 Cattle Detection Model
-🐄 Computer Vision model trained for cattle identification and monitoring.
-
-### Tech Used
-`PyTorch` `OpenCV` `NumPy` `Computer Vision`
-
----
-
-## 🔹 Muzzle Detection System
-😷 AI-powered muzzle detection model for animal safety and monitoring applications.
-
-### Tech Used
-`YOLO` `PyTorch` `OpenCV` `Deep Learning`
-
----
-
-# 🏆 Achievements
-- 🎓 Infosys Springboard Certified — Java Programming Fundamentals
-- 🚀 Smart India Hackathon 2024 (SIH) Participant
-- ⚡ H2S Hackathon Participant
-- 🤖 Built and trained multiple Computer Vision models
-- 🎮 Actively learning Game Development & 3D Design
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ayush-agarwal-39303728b" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://discord.gg/DrUjSzsnF" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=discord" height="40" />
-</a>
-
-<a href="mailto:agarwalayush190505@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
-</p>
-
----
-
-## 🤖 AI / ML / Data Science
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FFBB00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge)
-
----
-
-## 🎮 Game Development & Design
-<p>
-<img src="https://skillicons.dev/icons?i=unity,blender,cs" />
+&nbsp;
+![YOLO](https://img.shields.io/badge/YOLO-FFBB00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square)
 </p>
 
 ---
 
-## ⚙️ Backend & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&theme=radical&hide_border=true" height="170" />
-
-<img src="https://streak-stats.demolab.com/?user=Ayushagarwal-05&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushagarwal-05&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushagarwal-05&layout=compact&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushagarwal-05&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-# 📊 GitHub Metrics
+### 🌐 Connect
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushagarwal-05&theme=tokyonight" />
+<a href="https://www.linkedin.com/in/ayush-agarwal-39303728b">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+&nbsp;
+<a href="mailto:agarwalayush190505@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+&nbsp;
+<a href="https://discord.gg/DrUjSzsnF">
+<img src="https://skillicons.dev/icons?i=discord" height="40" />
+</a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushagarwal-05&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushagarwal-05&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushagarwal-05&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayushagarwal-05&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushagarwal-05&theme=react-dark)](https://github.com/Ayushagarwal-05)
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ayushagarwal-05&color=blue&style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">✨ “Building projects > Watching tutorials.” ✨</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F7FF&height=100&section=footer" width="100%"/>
