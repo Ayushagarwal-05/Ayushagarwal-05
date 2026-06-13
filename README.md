@@ -10,11 +10,13 @@ Ayush Agarwal
 AI Intern @ Matter Vision Mechanics
 Computer Vision + Hackathon Builder
 
-$ ls projects/
-MuzzleID/      # biometric cattle ID — YOLOv8 + ArcFace + FAISS
-HERO/          # offline AI assistant
-DevAura-AI/    # dev identity card generator
-ResQAI/        # AI emergency response — Top 10 SIH 2024
+$ tree projects/
+
+projects/
+├── MuzzleID/      ⭐ flagship project
+├── HERO/
+├── DevAura-AI/
+└── ResQAI/
 
 $ tech_stack.txt
 Python · Java · C++ · React · Next.js
