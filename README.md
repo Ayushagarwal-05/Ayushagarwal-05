@@ -1,81 +1,70 @@
 <p align="center">
-
-# 🎮 PLAYER PROFILE
-
-## AYUSH AGARWAL
-
-Level: 20
-
-Class: AI Engineer
-
-Specialization: Computer Vision
-
-Current Quest: Building MuzzleID 🐄
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="450"/>
 </p>
+
+# hey, i'm ayush 👋
+
+building AI systems, computer vision projects, and occasionally debugging things that worked five minutes ago.
 
 <img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" />
 
-## 🎒 inventory
+## 🌃 currently
 
-☕ Coffee × 99
+```yaml
+role: AI Intern @ Matter Vision Mechanics
 
-🧠 ML Models × 42
+building:
+  - MuzzleID
+  - HERO
 
-🐄 Cattle Dataset × 1
+learning:
+  - Agentic AI
+  - Game Development
 
-🎧 Anime OST Playlist × Infinite
+interests:
+  - Gym
+  - Anime
+  - Gaming
+```
 
-🐛 Bugs × Too Many
+## ☕ status
 
-## ⚔️ active quests
+Coffee      ██████████ 100%
+
+Sleep       ███░░░░░░░ 30%
+
+Motivation  █████████░ 90%
+
+Brain Cells ██░░░░░░░░ 20%
+
+## 🚀 featured projects
 
 🐄 MuzzleID
 
 🤖 HERO
 
-🎨 DevAura AI
+🛡️ Women Safety Application
 
-🎮 Learning Game Development
+🚑 ResQAI
 
-## 📈 skill tree
-
-AI/ML
-
-██████████
-
-Computer Vision
-
-█████████░
-
-Full Stack
-
-████████░░
-
-Game Dev
-
-███░░░░░░░
-
-## 🛠️ weapons
+## 🛠️ tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,fastapi,pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,nodejs,react,nextjs,fastapi,pytorch,tensorflow,opencv,git,github" />
 </p>
 
 <img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
 
-## 🏆 achievements unlocked
+## 🎮 side quests
 
-🏅 SIH 2024 Top 10 AI Team
+- gym
+- anime
+- gaming
+- hackathons
+- building random ideas
 
-🏅 AI Intern
+## 🌐 connect
 
-🏅 Hackathon Builder
+[LinkedIn](https://www.linkedin.com/in/ayush-agarwal-39303728b)
 
-🏅 AI Developer
-
-## 🌐 multiplayer lobby
-
-- LinkedIn
-- GitHub
-- Discord
+[GitHub](https://github.com/Ayushagarwal-05)
