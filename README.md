@@ -70,6 +70,4 @@ github   : Ayushagarwal-05
 linkedin : ayush-agarwal-39303728b
 ```
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,nodejs,react,nextjs,fastapi,pytorch,tensorflow,opencv,git,github" />
-</p>
+
