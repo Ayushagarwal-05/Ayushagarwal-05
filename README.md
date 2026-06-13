@@ -1,59 +1,70 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=200&section=header&text=Hey,%20I'm%20Ayush&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="450"/>
 </p>
 
-I'm a CS undergrad building AI/ML projects — mostly computer vision and full-stack AI apps, fueled by hackathons and way too much coffee. 🌇
+# hey, i'm ayush 👋
+
+building AI systems, computer vision projects, and occasionally debugging things that worked five minutes ago.
 
 <img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" />
 
-### 🧠 About me
+## 🌃 currently
 
-- 🐄 building **MuzzleID** — biometric cattle ID using muzzle prints (YOLOv8 + ArcFace + FAISS)
-- 🤖 currently an AI Intern @ Matter Vision Mechanics
-- 🏗️ working on an offline JARVIS-style dual AI assistant (Ollama, Whisper, Piper TTS)
-- 🏆 hackathon regular — SIH 2024, Hack2Skill, daily.dev
-- 🎮 gym + gaming + anime + music, in no particular order
-- 📫 reach me at agarwalayush190505@gmail.com
+```yaml
+role: AI Intern @ Matter Vision Mechanics
 
+building:
+  - MuzzleID
+  - HERO
 
+learning:
+  - Agentic AI
+  - Game Development
 
-### 🚀 Things I've Built
+interests:
+  - Gym
+  - Anime
+  - Gaming
+```
 
-- **MuzzleID** — biometric cattle ID system, FastAPI + Next.js + React Native
-- **DevAura AI** — cinematic developer identity card generator (daily.dev Hackathon 2026)
-- **HERO** — Jarvis-inspired desktop assistant with vision, OCR & voice
-- **Women Safety Application** — AI-powered emergency safety app with GPS tracking, geofencing & SOS alerts (Top 10 AI Teams, SIH 2024)
-- **ResQAI** — AI emergency response platform, Hack2Skill participant
+## ☕ status
 
+Coffee      ██████████ 100%
 
-### 🛠️ Tech stack
+Sleep       ███░░░░░░░ 30%
+
+Motivation  █████████░ 90%
+
+Brain Cells ██░░░░░░░░ 20%
+
+## 🚀 featured projects
+
+🐄 MuzzleID
+
+🤖 HERO
+
+🛡️ Women Safety Application
+
+🚑 ResQAI
+
+## 🛠️ tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,nodejs,fastapi,nextjs,react,git,github" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,nodejs,react,nextjs,fastapi,pytorch,tensorflow,opencv,git,github" />
 </p>
 
 <img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
 
-### 🎯 Currently Exploring
+## 🎮 side quests
 
-- Computer Vision
-- Agentic AI
-- Game Development
+- gym
+- anime
+- gaming
+- hackathons
+- building random ideas
 
-### 🌐 Find me here
+## 🌐 connect
 
-<a href="https://www.linkedin.com/in/ayush-agarwal-39303728b">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-</a>
-&nbsp;
-<a href="https://github.com/Ayushagarwal-05">
-<img src="https://skillicons.dev/icons?i=github" height="35" />
-</a>
-&nbsp;
-<a href="https://discord.gg/DrUjSzsnF">
-<img src="https://skillicons.dev/icons?i=discord" height="35" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/ayush-agarwal-39303728b)
 
+[GitHub](https://github.com/Ayushagarwal-05)
