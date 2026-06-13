@@ -1,70 +1,75 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="450"/>
-</p>
-
-# hey, i'm ayush 👋
-
-building AI systems, computer vision projects, and occasionally debugging things that worked five minutes ago.
-
 <img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" />
 
-## 🌃 currently
+```bash
+> whoami
 
-```yaml
-role: AI Intern @ Matter Vision Mechanics
+Ayush Agarwal
 
-building:
-  - MuzzleID
-  - HERO
-
-learning:
-  - Agentic AI
-  - Game Development
-
-interests:
-  - Gym
-  - Anime
-  - Gaming
+Computer Science Undergraduate
+AI Intern @ Matter Vision Mechanics
+Computer Vision Enthusiast
+Hackathon Builder
 ```
 
-## ☕ status
+```bash
+> currently_building
 
-Coffee      ██████████ 100%
+[MuzzleID]
+Biometric cattle identification system
 
-Sleep       ███░░░░░░░ 30%
+[HERO]
+Offline AI assistant
 
-Motivation  █████████░ 90%
+[DevAura AI]
+Developer identity generator
+```
 
-Brain Cells ██░░░░░░░░ 20%
+```bash
+> tech_stack
 
-## 🚀 featured projects
+Python
+Java
+C++
+React
+Next.js
+FastAPI
+PyTorch
+TensorFlow
+OpenCV
+```
 
-🐄 MuzzleID
+```bash
+> achievements
 
-🤖 HERO
+✓ SIH 2024 Top 10 AI Team
 
-🛡️ Women Safety Application
+✓ AI Internship
 
-🚑 ResQAI
+✓ Hackathons
 
-## 🛠️ tech stack
+✓ Open Source
+```
+
+<img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
+
+```bash
+> interests
+
+Gaming
+Anime
+Gym
+Agentic AI
+Game Development
+```
+
+```bash
+> contact
+
+email    : agarwalayush190505@gmail.com
+github   : Ayushagarwal-05
+linkedin : ayush-agarwal-39303728b
+```
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,nodejs,react,nextjs,fastapi,pytorch,tensorflow,opencv,git,github" />
 </p>
-
-<img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
-
-## 🎮 side quests
-
-- gym
-- anime
-- gaming
-- hackathons
-- building random ideas
-
-## 🌐 connect
-
-[LinkedIn](https://www.linkedin.com/in/ayush-agarwal-39303728b)
-
-[GitHub](https://github.com/Ayushagarwal-05)
