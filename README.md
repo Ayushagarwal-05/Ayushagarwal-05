@@ -14,7 +14,8 @@ $ ls projects/
 MuzzleID/      # biometric cattle ID — YOLOv8 + ArcFace + FAISS
 HERO/          # offline AI assistant
 DevAura-AI/    # dev identity card generator
-ResQAI/        # AI emergency response — Top 10 SIH 2024
+ResQAI/        # AI emergency response — H2S 2K26
+Women_Safety/  # Real time safety app — Top 10 SIH 2024
 
 $ tech_stack.txt
 Python · Java · C++ · React · Next.js
