@@ -12,32 +12,16 @@ Hackathon Builder
 ```
 
 ```bash
-> system_info
-
-name          : Ayush Agarwal
-education     : Computer Science Undergraduate
-specialty     : Computer Vision
-current_role  : AI Intern
-status        : online
-```
-
-```bash
 > currently_building
 
 [MuzzleID]
-status      : active
-stack       : YOLOv8 + ArcFace + FAISS
-progress    : ████████░░
+Biometric cattle identification system
 
 [HERO]
-status      : active
-stack       : Ollama + Whisper + Piper
-progress    : ██████░░░░
+Offline AI assistant
 
 [DevAura AI]
-status      : completed
-stack       : Next.js + AI APIs
-progress    : ██████████
+Developer identity generator
 ```
 
 ```bash
