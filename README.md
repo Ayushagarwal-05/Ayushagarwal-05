@@ -32,7 +32,3 @@ linkedin : ayush-agarwal-39303728b
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=3&width=100%"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushagarwal-05&show_icons=true&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushagarwal-05&layout=compact&hide_border=true&bg_color=00000000" />
-</p>
