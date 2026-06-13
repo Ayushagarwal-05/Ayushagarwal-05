@@ -16,11 +16,11 @@ HERO/          # offline AI assistant
 DevAura-AI/    # dev identity card generator
 ResQAI/        # AI emergency response — Top 10 SIH 2024
 
-$ cat tech_stack.txt
+$ tech_stack.txt
 Python · Java · C++ · React · Next.js
 FastAPI · PyTorch · TensorFlow · OpenCV
 
-$ cat contact.txt
+$ contact.txt
 email    : agarwalayush190505@gmail.com
 github   : Ayushagarwal-05
 linkedin : ayush-agarwal-39303728b
