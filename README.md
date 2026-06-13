@@ -1,75 +1,81 @@
+<p align="center">
+
+# 🎮 PLAYER PROFILE
+
+## AYUSH AGARWAL
+
+Level: 20
+
+Class: AI Engineer
+
+Specialization: Computer Vision
+
+Current Quest: Building MuzzleID 🐄
+
+</p>
+
 <img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxeG1nMGx6cTdqZnM1dnM0cnZ0cDQwZzJpcjBiZzMzb3FrZ2c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" />
 
-```bash
-> whoami
+## 🎒 inventory
 
-Ayush Agarwal
+☕ Coffee × 99
 
-Computer Science Undergraduate
-AI Intern @ Matter Vision Mechanics
-Computer Vision Enthusiast
-Hackathon Builder
-```
+🧠 ML Models × 42
 
-```bash
-> currently_building
+🐄 Cattle Dataset × 1
 
-[MuzzleID]
-Biometric cattle identification system
+🎧 Anime OST Playlist × Infinite
 
-[HERO]
-Offline AI assistant
+🐛 Bugs × Too Many
 
-[DevAura AI]
-Developer identity generator
-```
+## ⚔️ active quests
 
-```bash
-> tech_stack
+🐄 MuzzleID
 
-Python
-Java
-C++
-React
-Next.js
-FastAPI
-PyTorch
-TensorFlow
-OpenCV
-```
+🤖 HERO
 
-```bash
-> achievements
+🎨 DevAura AI
 
-✓ SIH 2024 Top 10 AI Team
+🎮 Learning Game Development
 
-✓ AI Internship
+## 📈 skill tree
 
-✓ Hackathons
+AI/ML
 
-✓ Open Source
-```
+██████████
+
+Computer Vision
+
+█████████░
+
+Full Stack
+
+████████░░
+
+Game Dev
+
+███░░░░░░░
+
+## 🛠️ weapons
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,fastapi,pytorch,tensorflow,opencv" />
+</p>
 
 <img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNrbzU4cnBrNXdteXJxbzljZTV1cHBqcGV4dTFpdzJwN3FoamtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlKjAZTc6NHCSdy/giphy.gif" />
 
-```bash
-> interests
+## 🏆 achievements unlocked
 
-Gaming
-Anime
-Gym
-Agentic AI
-Game Development
-```
+🏅 SIH 2024 Top 10 AI Team
 
-```bash
-> contact
+🏅 AI Intern
 
-email    : agarwalayush190505@gmail.com
-github   : Ayushagarwal-05
-linkedin : ayush-agarwal-39303728b
-```
+🏅 Hackathon Builder
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,nodejs,react,nextjs,fastapi,pytorch,tensorflow,opencv,git,github" />
-</p>
+🏅 AI Developer
+
+## 🌐 multiplayer lobby
+
+- LinkedIn
+- GitHub
+- Discord
